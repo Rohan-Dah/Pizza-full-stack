@@ -1,4 +1,4 @@
-# Realtime pizza app using Node-express-mongo-socket.io
+# Pizza App
 
 
 
@@ -6,6 +6,5 @@
 
 
 ## Installation 
-After download or clone run `npm install` OR `yarn install` to install all the dependancies.
+`npm install` in the dir where package.json is present
 
-🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
