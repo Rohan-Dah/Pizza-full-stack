@@ -6,5 +6,5 @@
 
 
 ## Installation 
-`npm install` in the dir where package.json is present
+`npm install` or `yarn install` in the dir where package.json is present
 
